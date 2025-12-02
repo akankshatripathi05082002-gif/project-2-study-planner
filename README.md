@@ -1,4 +1,4 @@
-Smart Study Planner
+**Smart Study Planner**
 
 A simple and interactive web application that generates a personalized study plan based on your subject and study hours.
 Built to help students stay consistent, organized, and stress-free during exam preparation.
@@ -40,19 +40,9 @@ Flask Framework
 
 HTML5
 
-CSS3
+CSS3 
 
-project-2-study-planner/
-│
-├── app.py
-│
-├── static/
-│   └── style.css
-│
-└── templates/
-    ├── index.html
-    └── summary.html
-
+**project structure**
 project-2-study-planner/
 │
 ├── app.py
@@ -66,4 +56,4 @@ project-2-study-planner/
 
  **Developer**
 Akanksha
-Aspiring HCI/UX & AI Studen
+Aspiring HCI/UX & AI Student 
